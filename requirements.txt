@@ -1,0 +1,8 @@
+All the necessaries libraries are listed below:
+
+> pandas
+> numpy
+> matplotlib
+> seaborn
+> sklearn
+
